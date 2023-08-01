@@ -1,0 +1,9 @@
+# Editor directories and files
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+# Files 
+node_modules
+test.js

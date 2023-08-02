@@ -1,24 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+
 html,
 body {
   margin: 0px;
   height: 100%;
   font-family: 'Chakra Petch', sans-serif;
 }
-
-@font-face {
-    font-family: 'Chakra Petch';
-    src: url('/images/Chakra_Petch/ChakraPetch-Bold.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-BoldItalic.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-Italic.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-Light.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-LightItalic.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-Medium.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-MediumItalic.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-Regular.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-SemiBold.ttf') format('ttf'),
-    url('/images/Chakra_Petch/ChakraPetch-SemiBoldItalic.ttf') format('ttf');
-}
-
 
 #canvas {
     position: absolute;

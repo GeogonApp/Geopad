@@ -24,6 +24,28 @@ body {
     margin-right: auto;
 }
 
+.navbar__logo a {
+    display: flex;
+    text-decoration: none;
+}
+
+.navbar__title {
+    display: flex;
+    margin-left: 10px;
+    font-size: 2em;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 1rem;
+}
+
+.navbar__title .text-white {
+    color: white;
+}
+
+.navbar__title .text-blue {
+    color: #B132FF;
+}
+
 .navbar__links {
     display: flex;
     align-items: center;
